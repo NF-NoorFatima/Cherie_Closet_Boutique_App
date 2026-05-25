@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1070051081022",
+    "firebase_url": "https://cheriecloset-default-rtdb.firebaseio.com",
+    "project_id": "cheriecloset",
+    "storage_bucket": "cheriecloset.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070051081022:android:71fa0a66b6207796758a6f",
+        "android_client_info": {
+          "package_name": "com.noorfatima.cheriecloset"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMf-_TBem5SY58NXkJq58YZJqBTOGfN0Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
