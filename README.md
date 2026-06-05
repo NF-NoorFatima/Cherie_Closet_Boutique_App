@@ -6,6 +6,7 @@ A full-featured mobile shopping app built with React Native and Expo.
 - Product listing and search
 - Shopping cart and checkout flow
 - Wishlist
+- User Profile 
 - Firebase Authentication (login/signup)
 - Loyalty points system based on purchase amount
 - Order tracking
