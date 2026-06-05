@@ -16,3 +16,5 @@ A full-featured mobile shopping app built with React Native and Expo.
 - Expo
 - Firebase (Authentication)
 - REST APIs
+## Developer
+Noor Fatima — CS Student
