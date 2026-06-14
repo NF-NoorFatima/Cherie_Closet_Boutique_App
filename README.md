@@ -20,7 +20,7 @@ A full-featured mobile shopping app built with React Native and Expo.
 ## Developer
 Noor Fatima — CS Student
 ## Screenshots
-
+![firstpage](first_screen.png)
 ![Login](login.png)
 ![Home](home.png)
 ![Cart](Cart.png)
