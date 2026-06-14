@@ -19,3 +19,11 @@ A full-featured mobile shopping app built with React Native and Expo.
 - REST APIs
 ## Developer
 Noor Fatima — CS Student
+## Screenshots
+
+![Login](login.png)
+![Home](home.png)
+![Cart](Cart.png)
+![Wishlist](Wishlist.png)
+![Checkout](checkout.png)
+![Admin Panel](Admin_login.png)
